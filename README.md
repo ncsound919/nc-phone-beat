@@ -3,7 +3,7 @@
 A 16-pad MPC for Android, built in Raleigh, NC. The beta is free; from
 December 1, 2026 each app is $5 once.
 
-[Download the latest beta APK](https://github.com/ncsound919/nc-phone-beat/releases/latest/download/NC-Phone-Beat-beta.apk) ·
+[Download the 0.3.0 beta APK](https://github.com/ncsound919/nc-phone-beat/releases/download/v0.3.0-beta/NC-Phone-Beat-beta.apk) ·
 [Manual](https://ncsound-hub.vercel.app/manuals/phone-beat) ·
 [Changelog](https://ncsound-hub.vercel.app/changelogs/phone-beat) ·
 [App page](https://ncsound-hub.vercel.app/apps/phone-beat)
